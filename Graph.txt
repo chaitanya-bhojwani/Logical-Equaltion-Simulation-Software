@@ -1,0 +1,11 @@
+
+
+GRAPH FOR THE LOGIC EXPRESSION : a + b 
+
+a	____----
+
+b	__--__--
+
+Fx	__------
+
+Time	0        
